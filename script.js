@@ -1,5 +1,5 @@
 // https://parzibyte.me/blog
-const MAXIMO_TAMANIO_BYTES = 50000000; // 1MB = 1 millón de bytes
+const MAXIMO_TAMANIO_BYTES = 10000000; // 1MB = 1 millón de bytes
 
 // Obtener referencia al elemento
 const $miInput = document.querySelector("#miInput");
